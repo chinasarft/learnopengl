@@ -1,0 +1,2 @@
+main.cpp.bak 原始例子, 只是贴了一张木箱的图. 把glsl2.fs(做了个颜色的混合)使用了个MIX_COLOR宏合在了一起
+main.cpp.bak2 两个texture叠加, TODO glUniform1i第二个参数

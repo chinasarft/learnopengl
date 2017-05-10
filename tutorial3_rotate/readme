@@ -1,0 +1,7 @@
+glm:roate glm::tranlate 的参数这个版本是弧度, 或者说以后都是弧度了
+
+roate.cpp.1 最基本的一个沿着x轴旋转了55度
+roate.cpp.2 画了个立方体  并且加入了深度测试 立方体自动旋转
+rotate.cpp.3 多个立方体
+rotate.cpp.4 相比于rotate.cpp.3 只是改了view矩阵, 让视角旋转
+rotate.cpp.5 相比于rotate.cpp.4 改用键盘控制前后左右的移动

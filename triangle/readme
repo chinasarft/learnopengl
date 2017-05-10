@@ -1,0 +1,4 @@
+main_triangle.cpp.bak 最原始的例子
+main_triangle.cpp.bak2 修改了下shader, 顶点增加了颜色属性，并且传递到fragment shade里面去
+main_triangle.cpp.bak3 花了两个三角形，分别使用不同的VAO VBO
+

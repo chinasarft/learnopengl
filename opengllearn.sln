@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opengllearn", "opengllearn\opengllearn.vcxproj", "{9FDAFB18-CA61-409E-9EE4-E764065E5A9C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "triangle", "triangle\triangle.vcxproj", "{8AAC7DC4-0A43-4054-9C26-CD024E0B2732}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quadrangle", "quadrangle\quadrangle.vcxproj", "{91F2C1D1-5873-4845-A58D-F34B3658BA36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial1_texture", "tutorial1_texture\tutorial1_texture.vcxproj", "{74E9FA80-9E07-4DDA-99E5-CCEEDBC7B69D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutoral2_twotex", "Tutoral2_twotex\Tutoral2_twotex.vcxproj", "{080AFDC5-307F-4A45-956B-3E0D33F62D39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial3_rotate", "tutorial3_rotate\tutorial3_rotate.vcxproj", "{13B487AA-282A-4105-8F53-AE53E4D924C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutorial4_camera", "Tutorial4_camera\Tutorial4_camera.vcxproj", "{ECF82A76-950A-470A-8C63-202566AAE99E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtopengl", "qtopengl\qtopengl.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDAFB18-CA61-409E-9EE4-E764065E5A9C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FDAFB18-CA61-409E-9EE4-E764065E5A9C}.Debug|Win32.Build.0 = Debug|Win32
+		{9FDAFB18-CA61-409E-9EE4-E764065E5A9C}.Release|Win32.ActiveCfg = Release|Win32
+		{9FDAFB18-CA61-409E-9EE4-E764065E5A9C}.Release|Win32.Build.0 = Release|Win32
+		{8AAC7DC4-0A43-4054-9C26-CD024E0B2732}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8AAC7DC4-0A43-4054-9C26-CD024E0B2732}.Debug|Win32.Build.0 = Debug|Win32
+		{8AAC7DC4-0A43-4054-9C26-CD024E0B2732}.Release|Win32.ActiveCfg = Release|Win32
+		{8AAC7DC4-0A43-4054-9C26-CD024E0B2732}.Release|Win32.Build.0 = Release|Win32
+		{91F2C1D1-5873-4845-A58D-F34B3658BA36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91F2C1D1-5873-4845-A58D-F34B3658BA36}.Debug|Win32.Build.0 = Debug|Win32
+		{91F2C1D1-5873-4845-A58D-F34B3658BA36}.Release|Win32.ActiveCfg = Release|Win32
+		{91F2C1D1-5873-4845-A58D-F34B3658BA36}.Release|Win32.Build.0 = Release|Win32
+		{74E9FA80-9E07-4DDA-99E5-CCEEDBC7B69D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74E9FA80-9E07-4DDA-99E5-CCEEDBC7B69D}.Debug|Win32.Build.0 = Debug|Win32
+		{74E9FA80-9E07-4DDA-99E5-CCEEDBC7B69D}.Release|Win32.ActiveCfg = Release|Win32
+		{74E9FA80-9E07-4DDA-99E5-CCEEDBC7B69D}.Release|Win32.Build.0 = Release|Win32
+		{080AFDC5-307F-4A45-956B-3E0D33F62D39}.Debug|Win32.ActiveCfg = Debug|Win32
+		{080AFDC5-307F-4A45-956B-3E0D33F62D39}.Debug|Win32.Build.0 = Debug|Win32
+		{080AFDC5-307F-4A45-956B-3E0D33F62D39}.Release|Win32.ActiveCfg = Release|Win32
+		{080AFDC5-307F-4A45-956B-3E0D33F62D39}.Release|Win32.Build.0 = Release|Win32
+		{13B487AA-282A-4105-8F53-AE53E4D924C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13B487AA-282A-4105-8F53-AE53E4D924C3}.Debug|Win32.Build.0 = Debug|Win32
+		{13B487AA-282A-4105-8F53-AE53E4D924C3}.Release|Win32.ActiveCfg = Release|Win32
+		{13B487AA-282A-4105-8F53-AE53E4D924C3}.Release|Win32.Build.0 = Release|Win32
+		{ECF82A76-950A-470A-8C63-202566AAE99E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECF82A76-950A-470A-8C63-202566AAE99E}.Debug|Win32.Build.0 = Debug|Win32
+		{ECF82A76-950A-470A-8C63-202566AAE99E}.Release|Win32.ActiveCfg = Release|Win32
+		{ECF82A76-950A-470A-8C63-202566AAE99E}.Release|Win32.Build.0 = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.Build.0 = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.ActiveCfg = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

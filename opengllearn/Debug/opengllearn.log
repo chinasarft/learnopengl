@@ -1,0 +1,7 @@
+﻿LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glfw3.lib(init.c.obj) : error LNK2019: 无法解析的外部符号 __imp__vsnprintf，该符号在函数 __glfwInputError 中被引用
+MSVCRTD.lib(vsnprintf.obj) : error LNK2001: 无法解析的外部符号 __imp__vsnprintf
+glfw3.lib(context.c.obj) : error LNK2019: 无法解析的外部符号 __imp__sscanf，该符号在函数 __glfwRefreshContextAttribs 中被引用
+MSVCRTD.lib(vsnprintf.obj) : error LNK2001: 无法解析的外部符号 __imp___vsnprintf
+C:\Users\liuye\Documents\Visual Studio 2013\Projects\opengllearn\Debug\opengllearn.exe : fatal error LNK1120: 3 个无法解析的外部命令
